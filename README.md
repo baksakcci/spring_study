@@ -8,8 +8,8 @@
 
 - `intelliJ IDEA`
 - `postman`
-- 'MYSQL Workbench`
-- 'MYSQL`, `spring`, `jpa`, `git`
+- `MYSQL Workbench`
+- `MYSQL`, `spring`, `jpa`, `git`
 
 ## 이론 공부
 
